@@ -1,3 +1,5 @@
 boto3==1.17.86
 imageio-ffmpeg
 imageio
+ffmpeg-python
+opencv-python
